@@ -1,11 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: main
+layout: default
 title: Kamal Singh Portfolio
 ---
-## Quick Links
+# Welcome
 
-- [Projects](/projects)
-- [Certificates](/certificates)
+This is my portfolio site.  
+Check out my [Projects](/projects) and [Certificates](/certificates).
