@@ -5,3 +5,7 @@
 layout: default
 title: Kamal Singh Portfolio
 ---
+## Quick Links
+
+- [Projects](/projects)
+- [Certificates](/certificates)
