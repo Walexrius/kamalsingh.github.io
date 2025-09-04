@@ -5,8 +5,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/assets/style.css">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header { background: #2c3e50; color: white; padding: 1rem; }
+    nav a { color: white; margin-right: 1rem; text-decoration: none; }
+    main { padding: 2rem; }
+    footer { text-align: center; padding: 1rem; background: #ecf0f1; margin-top: 2rem; }
+  </style>
 </head>
 <body>
-  {{ content }}
+  <header>
+    <h1>{{ page.title }}</h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/projects">Projects</a>
+      <a href="/certificates">Certificates</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    © 2025 Kamal Singh
+  </footer>
 </body>
 </html>
