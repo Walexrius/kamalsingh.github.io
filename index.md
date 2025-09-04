@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kamal Singh Portfolio
+title: Kamal Singh - Learn More About Me!
 ---
 # Welcome
 
